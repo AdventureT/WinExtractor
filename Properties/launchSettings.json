@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\nepel\\Downloads\\eee\\eee\\global\\global.win"
+    }
+  }
+}
